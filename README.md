@@ -40,4 +40,4 @@ All student records are managed in a **single `.txt` file**, formatted for easy 
 ## 📜 Installation & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Student-Management-System-Bash](https://github.com/Anwaar-Ahmad9212/Student-Management-System-Bash-Shell-
+   git clone https://github.com/Anwaar-Ahmad9212/Student-Management-System-Bash-Shell-
